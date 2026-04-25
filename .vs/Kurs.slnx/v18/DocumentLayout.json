@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\invoke\\Downloads\\\u0414\u0430\u0448\u0430 \u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Kurs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85A5FE74-84F3-41B6-8E58-AFE2FEDDA232}|Kurs.csproj|c:\\users\\invoke\\downloads\\\u0434\u0430\u0448\u0430 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A5FE74-84F3-41B6-8E58-AFE2FEDDA232}|Kurs.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85A5FE74-84F3-41B6-8E58-AFE2FEDDA232}|Kurs.csproj|c:\\users\\invoke\\downloads\\\u0434\u0430\u0448\u0430 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85A5FE74-84F3-41B6-8E58-AFE2FEDDA232}|Kurs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\invoke\\Downloads\\\u0414\u0430\u0448\u0430 \u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Kurs\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\invoke\\Downloads\\\u0414\u0430\u0448\u0430 \u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Kurs\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:23:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\invoke\\Downloads\\\u0414\u0430\u0448\u0430 \u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\Kurs\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
